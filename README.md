@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><img alt="logo" width="60%" height="60%" src="https://raw.githubusercontent.com/heycatch/10moons-driver/refs/heads/master/docs/T605.png"></picture>
+  <picture><img alt="logo" width="60%" height="60%" src="https://raw.githubusercontent.com/ghostemeow/10moons-driver/refs/heads/master/docs/T605.png"></picture>
   <h2>SZ PING-IT INC. [T605] Driver Inside Tablet</h2>
 </div>
 
@@ -23,7 +23,7 @@ Connect tablet to your computer and then run _driver.py_ file with **sudo** priv
 
 Press the "Start injection".
 ```bash
-git clone https://github.com/heycatch/10moons-driver-t605.git
+git clone https://github.com/ghostemeow/10moons-driver-t605.git
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
