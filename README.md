@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><img alt="logo" width="60%" height="60%" src="https://raw.githubusercontent.com/ghostemeow/10moons-driver/refs/heads/master/docs/T605.png"></picture>
+  <picture><img alt="logo" width="60%" height="60%" src="https://raw.githubusercontent.com/ghostemeow/10moons-driver-t605/refs/heads/master/docs/T605.png"></picture>
   <h2>SZ PING-IT INC. [T605] Driver Inside Tablet</h2>
 </div>
 
