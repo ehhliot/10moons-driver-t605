@@ -1,5 +1,4 @@
 import usb
-import sys
 from threading import Thread
 from evdev import UInput, ecodes, AbsInfo
 import time
